@@ -1,0 +1,2 @@
+[2022-04-25 08:43:33,228] INFO Expiring session 0x10064e88afe0000, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-04-25 08:43:35,659] INFO Invalid session 0x10064e88afe0000 for client /127.0.0.1:64671, probably expired (org.apache.zookeeper.server.ZooKeeperServer)

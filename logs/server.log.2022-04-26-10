@@ -1,0 +1,4 @@
+[2022-04-26 10:16:38,147] INFO [GroupCoordinator 0]: Member kafka-python-2.0.2-befb0714-d0a9-4a3a-9835-5a4c22eaf526 in group mygroup has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2022-04-26 10:16:38,181] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup in state PreparingRebalance with old generation 4 (__consumer_offsets-39) (reason: removing member kafka-python-2.0.2-befb0714-d0a9-4a3a-9835-5a4c22eaf526 on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
+[2022-04-26 10:16:38,182] INFO [GroupCoordinator 0]: Member kafka-python-2.0.2-e682ded3-cf04-406c-a12e-4aa2e35687a9 in group mygroup has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2022-04-26 10:16:38,184] INFO [GroupCoordinator 0]: Group mygroup with generation 5 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
